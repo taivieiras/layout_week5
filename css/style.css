@@ -24,15 +24,16 @@ h1{
 }
 
 .navigation ul{
+    text-align: right; 
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #090934;
+    background-color: grey;
     position: fixed;
     top: 0;
     width: 100%;
-    border-bottom: 5px solid #151599;
+    border-bottom: 5px solid whitesmoke;
 }
 
 .navigation li {
